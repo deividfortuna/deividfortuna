@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there, my name is Deivid 👋
+
+### I'm a full snack developer based in Auckland, New Zealand
+
+- Build software for more than a decade and still love it;
+- Passionate around innovation and building new skills;
+- Advocate for high automated software coverage.
 
 <!--
 **deividfortuna/deividfortuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
