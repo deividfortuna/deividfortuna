@@ -4,7 +4,7 @@
 
 - Build software for more than a decade and still love it;
 - Passionate around innovation and building new skills;
-- Advocate for high automated software coverage and delivery.
+- Advocate for highly automated software coverage and delivery.
 
 <!--
 **deividfortuna/deividfortuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
